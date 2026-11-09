@@ -1,0 +1,5 @@
+{
+  "enabled": true,
+  "dedup_interval": 30,
+  "max_likes_per_user": 3
+}

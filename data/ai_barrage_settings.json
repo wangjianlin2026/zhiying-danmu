@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "welcome_enabled": true,
+  "answer_enabled": true,
+  "read_aloud": true,
+  "min_interval": 4.0,
+  "welcome_min_interval": 30.0,
+  "like_queue_cooldown": 30.0,
+  "max_queue": 60,
+  "conversation_mode": "manual",
+  "auto_active": false
+}

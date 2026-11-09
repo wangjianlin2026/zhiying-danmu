@@ -1,0 +1,22 @@
+{
+  "category_monitor": true,
+  "barrage_event_monitor": true,
+  "barrage_types": {
+    "message": true,
+    "like": true,
+    "social": true,
+    "gift": true,
+    "fansclub": true,
+    "share": true,
+    "member": true,
+    "roomUserSeq": false,
+    "control": false,
+    "roomStats": false
+  },
+  "like_dedup_mode": "once",
+  "like_dedup_interval": "60",
+  "normal_message_interval": "3.0",
+  "priority_message_interval": "2.0",
+  "keyboard_input_priority": true,
+  "keyboard_input_interval": "0.5"
+}

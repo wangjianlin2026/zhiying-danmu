@@ -1,0 +1,42 @@
+{
+  "enabled": true,
+  "priority_keywords": [],
+  "max_priority_items": 10,
+  "send_mode": "smart",
+  "types": {
+    "message": true,
+    "like": true,
+    "social": true,
+    "gift": true,
+    "fansclub": true,
+    "share": true,
+    "member": true
+  },
+  "levels": {
+    "message": 1,
+    "like": 4,
+    "social": 2,
+    "gift": 1,
+    "fansclub": 3,
+    "share": 4,
+    "member": 2
+  },
+  "priority_types": {
+    "message": true,
+    "like": true,
+    "social": true,
+    "gift": true,
+    "fansclub": true,
+    "share": true,
+    "member": true
+  },
+  "priority_levels": {
+    "message": 1,
+    "like": 4,
+    "social": 2,
+    "gift": 1,
+    "fansclub": 3,
+    "share": 4,
+    "member": 2
+  }
+}

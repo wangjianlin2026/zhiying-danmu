@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "filters": {
+    "duplicate": true,
+    "spam": true,
+    "inappropriate": true
+  },
+  "duplicate_window": 30,
+  "spam_window": 10,
+  "spam_limit": 3,
+  "number_enabled": true,
+  "number_window": 10
+}
